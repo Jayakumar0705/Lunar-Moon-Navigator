@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="docs/img/project-banner.jpg"
+       alt="Lunar Moon Navigator - Lunar Landing-Site Analysis"
+       width="100%">
+</p>
+
 # Lunar Landing Navigator
 
 An educational application for lunar south-pole exploration. The active frontend is React and TypeScript; FastAPI and the existing Python astronomy and terrain modules own scientific data access and calculations.
